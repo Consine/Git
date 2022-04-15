@@ -1,2 +1,2 @@
 git is free.
-git if a control system.
+git is a control system.
